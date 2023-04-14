@@ -4,7 +4,7 @@ C++ Enigma Machine
 Introduction
 --------------------------
 This is a C++ implementation of the Enigma Machine used during WWII.
-It was developed by Giacomo Guerci in October 2015 at Imperial College London.
+It was developed by James Reaver in October 2015 at Imperial College London.
 The code is provided without a licence and all the rights are reserved.
 
 Running Enigma
